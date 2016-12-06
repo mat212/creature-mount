@@ -1,0 +1,6 @@
+[
+  {"op" : "add", 
+  "path" : "/spawnGroups/-",
+  "value" : [1.0, "caseragro"]
+  }
+]

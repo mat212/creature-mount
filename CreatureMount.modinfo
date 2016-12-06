@@ -1,0 +1,11 @@
+{
+  "name" : "CreatureMount",
+  "path" : ".",
+  "dependencies" : [ ],
+  "metadata": {
+    "description" : "Test for a creature mount.",
+    "author" : ".",
+	"update_by" : ".",
+	"version_number" : "0.2"
+  }
+}

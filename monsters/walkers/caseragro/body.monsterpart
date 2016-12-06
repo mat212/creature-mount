@@ -1,0 +1,9 @@
+{
+  "name" : "caseragro",
+  "category" : "caseragro",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "caseragro.png"
+  }
+}
